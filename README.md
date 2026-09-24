@@ -1,4 +1,9 @@
 # Multi-Agent Customer Support Intelligence Platform
+<img width="1887" height="880" alt="image" src="https://github.com/user-attachments/assets/60ab6349-6c7b-4f72-9482-4c8ae6c41ac9" />
+<img width="1833" height="856" alt="image" src="https://github.com/user-attachments/assets/1ae2409d-1c0d-4745-a439-ac45597a69a3" />
+<img width="1571" height="857" alt="image" src="https://github.com/user-attachments/assets/f860a7f4-c368-43ff-8b04-9af823ea7d0b" />
+<img width="1815" height="852" alt="image" src="https://github.com/user-attachments/assets/fd913dcf-65cd-489a-9e7e-158a525f2f88" />
+
 
 ## 🎯 Overview
 
@@ -438,18 +443,5 @@ For issues or questions:
 2. Review API docs: `http://localhost:8000/docs`
 3. Check database: Query SQLite/PostgreSQL directly
 
-## 🎓 Learning Outcomes
 
-After completing this project, you'll understand:
-- ✅ Multi-agent system design
-- ✅ NLP and text classification
-- ✅ Vector databases and RAG
-- ✅ FastAPI development
-- ✅ Streamlit dashboards
-- ✅ Database design with SQLAlchemy
-- ✅ Machine learning pipelines
-- ✅ System monitoring and analytics
 
----
-
-**Happy Supporting! 🎉**
