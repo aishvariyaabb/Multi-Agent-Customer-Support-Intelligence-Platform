@@ -434,7 +434,7 @@ This project is for educational purposes.
 
 ## 👨‍💻 Author
 
-Created for GUVI Project - Multi-Agent Customer Support Intelligence Platform
+Created - Multi-Agent Customer Support Intelligence Platform
 
 ## 📞 Support
 
