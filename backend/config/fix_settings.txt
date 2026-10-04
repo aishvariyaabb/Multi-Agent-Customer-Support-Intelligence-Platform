@@ -1,0 +1,8 @@
+"""
+Fix for settings.py to include API host
+"""
+# Add this to backend/config/settings.py after line 24:
+
+# API Configuration
+api_host: str = "0.0.0.0"
+api_port: int = 8000

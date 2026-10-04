@@ -1,0 +1,3 @@
+2026-10-04 23:48:15 | INFO     | __main__:<module>:39 - Starting server on 0.0.0.0:8015
+2026-10-04 23:48:16 | INFO     | backend.api.app:startup_event:44 - Database tables initialized
+2026-10-04 23:48:16 | INFO     | backend.api.app:shutdown_event:49 - Application shutting down
