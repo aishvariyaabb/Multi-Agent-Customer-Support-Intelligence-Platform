@@ -1,8 +1,14 @@
 # Multi-Agent Customer Support Intelligence Platform
-<img width="1887" height="880" alt="image" src="https://github.com/user-attachments/assets/60ab6349-6c7b-4f72-9482-4c8ae6c41ac9" />
-<img width="1833" height="856" alt="image" src="https://github.com/user-attachments/assets/1ae2409d-1c0d-4745-a439-ac45597a69a3" />
-<img width="1571" height="857" alt="image" src="https://github.com/user-attachments/assets/f860a7f4-c368-43ff-8b04-9af823ea7d0b" />
-<img width="1815" height="852" alt="image" src="https://github.com/user-attachments/assets/fd913dcf-65cd-489a-9e7e-158a525f2f88" />
+<img width="1907" height="857" alt="image" src="https://github.com/user-attachments/assets/a2d7c52d-e80b-41c5-96af-60f004284601" />
+<img width="1887" height="873" alt="image" src="https://github.com/user-attachments/assets/16d7bd79-4560-4e8b-ba6f-69bdc168adda" />
+<img width="1887" height="860" alt="image" src="https://github.com/user-attachments/assets/d0283b9f-8ccf-44c3-af48-978e02a3f2fd" />
+<img width="1877" height="866" alt="image" src="https://github.com/user-attachments/assets/71cca8f3-3873-472b-97e1-c95494744421" />
+<img width="1878" height="843" alt="image" src="https://github.com/user-attachments/assets/c2683ac1-2c68-4a17-ae01-de96232e59a9" />
+
+
+
+
+
 
 
 ## 🎯 Overview
